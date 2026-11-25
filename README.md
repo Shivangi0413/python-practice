@@ -1,2 +1,1 @@
-# python-practice
-Python learning practice
+print("i am starting my codding journey today ")
